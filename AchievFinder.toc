@@ -1,0 +1,10 @@
+## Interface: 50400
+## Title: Achievement Finder
+## Title-ptBR: Localizador de Recompensas
+## Notes: Find your achievements quickly using the same interface we are used to.
+## Version: 0.1
+## Author: Bruno Furtado Montes Oliveira
+
+localization.en.lua
+localization.br.lua
+main.lua
